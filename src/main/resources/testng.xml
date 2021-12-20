@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TunisiaNet Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="User Account Management Test Cases">
+		<classes>
+			<class name="tests.UserAccountManagmentTest"></class>
+		</classes>
+	</test>
+
+
+	<test name="Product Management Test Cases">
+		<classes>
+			<class name="tests.ProductManagementTest"></class>
+		</classes>
+	</test>
+</suite>
