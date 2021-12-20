@@ -5,6 +5,7 @@
 
 This project tests some of TunisiaNet website basic features using Selenium as a test automation tool.
 <br/>
+<br/>
 
    - [Why Selenium ?](#why-selenium)
    - [About this project](#about-this-project)
@@ -40,3 +41,20 @@ In this project, we will be using **Selenium WebDriver** as a test automation to
 </p>
 
 ## About this project
+
+This project test some basic features of **TunisiaNet website**. This features include users accounts management (registration, authentification, ..) and product management (search a particular product, purchase a product, add to cart or to wishlist, ..). **We will be testing the following scenario at the end :**
+* **User searches a product**
+* **User sign in so he can add the product to his cart**
+* **User order the product**
+
+<br/>
+Which will look like this in our code (*userCanPurchaseProductTest*) :
+<p align="center" >
+  <img src="scenario.jpg" alt="Base Scenario">
+</p>
+
+The project can be expanded easily to test other scenarios (other than registration, authentification, searching and ordering a product) since I used ***Page Object Model*** for a **cleaner code**.
+
+<p align="center" >
+  <img src="https://www.guru99.com/images/AdvanceSelenium/071514_0722_PageObjectM2.png" alt="POM" height="300">
+</p>
