@@ -48,7 +48,7 @@ This project test some basic features of **TunisiaNet website**. This features i
 * **User order the product**
 
 <br/>
-Which will look like this in our code (*userCanPurchaseProductTest*) :
+Which will look like this in our code ( userCanPurchaseProductTest ) :
 <p align="center" >
   <img src="scenario.jpg" alt="Base Scenario">
 </p>
