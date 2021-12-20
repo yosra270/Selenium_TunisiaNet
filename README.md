@@ -21,7 +21,7 @@ New software releases are being *delivered faster and more regularly than ever*.
 Accelerated product release requires *accelerated coding*, which needs *accelerated testing*. Every time an application (or updates to the application) hits the market, it needs to be *perfectly functional* for each user. The only way to ensure flawless functioning is to *test each feature and update comprehensively*. To do so manually in restricted timelines for complex, feature-rich software is impossible. Automation is the only recourse.
 **Without automation testing, the speed required to actually make development “agile” cannot be brought into the picture.**
 
-Automation testing in Agile allows ***Continuous Testing** for QAs in a DevOps environment ensuring therefore that new code is bug-free before it hits the production environment. Furthermore, automation allows running ***cross-browser and cross-platform tests.***
+Automation testing in Agile allows ***Continuous Testing*** for QAs in a DevOps environment ensuring therefore that new code is bug-free before it hits the production environment. Furthermore, automation allows running ***cross-browser and cross-platform tests.***
 
 Automation testing in Agile is implemented via several tools and frameworks such as **Selenium**.
 
