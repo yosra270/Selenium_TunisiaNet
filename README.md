@@ -14,7 +14,7 @@ This project tests some of TunisiaNet website basic features using Selenium as a
 
 ## Why Selenium ?
 
-New software releases are being *delivered faster and more regularly than ever*. It’s become crucial for companies with any level of digital footprint to *improve the efficiency and accuracy of their testing* to keep up with their competitors. Therefore, companies are adopting ***Agile*** and ***DevOps*** as the new models for modern software engineering.
+New software releases are being *delivered faster and more regularly than ever*. It’s become crucial for companies with any level of digital footprint to *improve the efficiency and accuracy of their testing* to keep up with their competitors. Therefore, companies are adopting **Agile** and **DevOps** as the new models for modern software engineering.
 <p align="center" >
   <img src="https://blog.crisp.se/wp-content/uploads/2016/01/Making-sense-of-MVP-.jpg" alt="Agile Development" >
 </p>
